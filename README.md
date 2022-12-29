@@ -7,7 +7,7 @@ Entitity Relationship Diagram (ERD) was used to create the database design struc
 I used MySQL command prompt, to grant only one user access to the database (for extra protection). 
 
 #Code used 
-CREATE DATABASE friendzone;
+CREATE DATABASE _;
 
 GRANT ALL ON _.*TO '_'@'localhost'
 IdENTIFIED BY '_';
